@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
     "jsdom": "^16.5.3"
   }
 }
