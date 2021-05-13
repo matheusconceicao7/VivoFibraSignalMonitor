@@ -1,0 +1,15 @@
+{
+  "name": "vivofibrasignalmonitor",
+  "version": "1.0.0",
+  "description": "This package intends to monitor and save RX signal of Vivo Fibra Internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Conceicao",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.5.3"
+  }
+}
